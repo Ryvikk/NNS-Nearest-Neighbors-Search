@@ -1,5 +1,5 @@
 # NNS - Nearest Neighbors Search
 exploration and toy models
 
-- Cos similarity 
+- Cos similarity <br>
 - LSH
